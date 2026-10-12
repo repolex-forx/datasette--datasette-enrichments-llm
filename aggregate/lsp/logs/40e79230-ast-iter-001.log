@@ -1,0 +1,7 @@
+[2026-10-12T19:30:28Z] === AST ITERATION 1 START | repo=datasette/datasette-enrichments-llm sha=40e79230 ===
+[2026-10-12T19:30:28Z] [iter=1] PHASE START: ast repo=datasette/datasette-enrichments-llm sha=40e79230
+[2026-10-12T19:30:28Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T19:30:29Z] [iter=1] AST chunks built count=1 triples=16611
+[2026-10-12T19:30:29Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/40e7923095605f8a39d202031f86a4d76423d92f/.complete
+[2026-10-12T19:30:29Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-12T19:30:29Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
