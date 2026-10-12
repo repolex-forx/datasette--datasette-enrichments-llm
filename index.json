@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-enrichments-llm",
+  "versions": [
+    {
+      "commit": "40e7923095605f8a39d202031f86a4d76423d92f",
+      "tag": "0.2a1",
+      "parsed_at": "2026-10-12T19:31:35.194553+00:00"
+    }
+  ]
+}
