@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-enrichments-llm",
+  "versions": [
+    {
+      "commit": "40e7923095605f8a39d202031f86a4d76423d92f",
+      "parsed_at": "2026-10-12T19:29:19.312887+00:00",
+      "tag": "0.2a1",
+      "filetree": "filetree/40e7923095605f8a39d202031f86a4d76423d92f.nq.gz",
+      "blobs": [
+        "blob/b2dfc078d5f20915d4c8b3a8eb2c99776d32de15.nq.gz",
+        "blob/5e718cef78a5726d2850559da40def0581775eac.nq.gz",
+        "blob/7a17a8a8f21b23f799bf668c0c86619f7298161c.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/63ff949fbb2595055ff1b813527ee50744768058.nq.gz",
+        "blob/e0a03bc5772904d45b119f9edc09e6530b209b08.nq.gz",
+        "blob/4aec663548c3c074609852b837b9a55115bba525.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
